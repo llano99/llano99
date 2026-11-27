@@ -21,7 +21,6 @@
 $ cat sobre-mi.md
 > Estudiante en formación, enfocado en la administración de sistemas.
 > Me gusta entender cómo funcionan las máquinas por dentro y automatizar lo repetitivo.
-> Ahora mismo: introducción a DevOps (CI/CD, automatización, contenedores).
 ```
 
 <details>
