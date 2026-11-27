@@ -47,16 +47,6 @@ $ cat sobre-mi.md
 
 ---
 
-## `~/proyectos`
-
-<div align="center">
-
-[![Fundamento Hardware Trabajo](https://github.com/llano99/seguridad-trabajo-informatica)
-
-</div>
-
----
-
 ## `~/estadisticas`
 
 <div align="center">
