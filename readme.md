@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=720&height=50&lines=%3E+sudo+apt+install+conocimiento;%3E+Estudiante+de+Administración+de+Sistemas;%3E+Linux+%7C+Bash+%7C+Redes+%7C+Docker;%3E+Aprendiendo+DevOps+cada+día)](https://github.com/llano99)
 
-<img src="img/terminal.svg" alt="Terminal de llano99" width="85%">
+<img src="img/terminal.svg" alt="Terminal de Alejandro Llano" width="85%">
 
 <br>
 
