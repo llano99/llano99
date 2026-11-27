@@ -78,7 +78,7 @@ $ cat sobre-mi.md
 
 [![GitHub](https://img.shields.io/badge/GitHub-llano99-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0d1117)](https://github.com/llano99)
 <a href="https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/alejandro-llano-mart%C3%ADnez-8067603a4/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAYHuHEAX3oSbqV16Mh6tRCjCeGYriDiDjCrwmUrH5Zxll551VBKKgPZc&s=10" height="28" alt="LinkedIn">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAYHuHEAX3oSbqV16Mh6tRCjCeGYriDiDjCrwmUrH5Zxll551VBKKgPZc&s=10" width="80" height="29" alt="LinkedIn">
 </a>
 <!-- Cambia TU-USUARIO y TU-CORREO por los tuyos y quita los comentarios -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-00ff9c?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0d1117)](https://www.linkedin.com/in/TU-USUARIO) -->
