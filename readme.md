@@ -51,7 +51,7 @@ $ cat sobre-mi.md
 
 <div align="center">
 
-[![Devops](https://github-readme-stats.vercel.app/api/pin/?username=llano99&repo=Devops&theme=dark&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=00ff9c)](https://github.com/llano99/Devops)
+[![Fundamento Hardware Trabajo](https://github.com/llano99/seguridad-trabajo-informatica)
 
 </div>
 
